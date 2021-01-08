@@ -1,0 +1,13 @@
+.navbar {
+  position: fixed;
+  top: 0px;
+  width: 100vw;
+  height: 100px;
+  background-color: aqua;
+}
+
+.navButtons {
+  position: absolute;
+  bottom: 0px;
+}
+/*# sourceMappingURL=Nav.css.map */
